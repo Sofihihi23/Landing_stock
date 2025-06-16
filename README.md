@@ -1,6 +1,6 @@
 Лендинг по стоковому макету 
 
-Ссылка на live-версию - https://sofihihi23.github.io/Whirt/
+Ссылка на live-версию - https://sofihihi23.github.io/Landing_stock/
 - Адаптив будет в ближайшее время
 - Сайт написан по БЭМ
 - Для ссылков и кнопок применен hover
